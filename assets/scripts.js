@@ -14,7 +14,7 @@ if (!window["Heartlove"]) {
   "Cảm ơn em đã đến và làm cuộc sống anh thêm ý nghĩa 💞",
   "20/10 – Anh chỉ mong em luôn vui vẻ, xinh đẹp và yêu đời 🌷",
   "Em xứng đáng được yêu thương mỗi ngày 💝",
-  "Anh yêu em nhiều lắm, công chúa của anh 💌"
+  "Anh chúc em mọi thứ, công chúa của anh 💌"
 ],
       images: [],
       heartColor: "#ff9090",
